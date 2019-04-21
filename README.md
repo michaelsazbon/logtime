@@ -1,4 +1,4 @@
-# LogTime
+# LogTime (Nov 2018)
 A PoC for time and activity tracking Windows App in Powershell
 
 # Overview
